@@ -1,0 +1,27 @@
+---
+type: concept
+tags: [cjm, customer-journey, user-experience]
+created: 2026-04-22
+updated: 2026-04-22
+---
+# 고객 여정 지도 (Customer Journey Map)
+
+타겟 고객이 솔루션을 처음 인지하고 안착하기까지의 여정(CJM)을 핵심 타겟과 극단 타겟으로 나누어 설계했습니다.
+
+## 1. 핵심 타겟 여정: 이커머스 MD (김아름)
+- **위기 (Trigger)**: 트렌드 급변으로 품절 사태 발생, 수기 엑셀의 한계 직면.
+- **초기 경험 (Setup)**: 과거 3년 치 엑셀 업로드 및 기상 연동 클릭. (포맷 프리 자동 설정으로 진입 장벽 제거)
+- **기안/결재 (Buy-in)**: 임원 설득 과정에서 AI에 대한 불신에 부딪힘. **(해법: XAI 예측 근거 PDF 보고서 원클릭 도출)**
+- **실무 안착 (Routine)**: 출근 직후 PC 웹 대시보드에서 '발주 시급 품목 Top 5' 확인.
+- **유지 명분 (Advocacy)**: 솔루션으로 방어한 재무 실적(절감액) 증명.
+
+## 2. 극단 타겟 여정: 공장장 (김철수)
+- **위기 (Trigger)**: 결측치가 많은 ERP 데이터 속에서 롱테일 C급 볼트 결품 펑크.
+- **초기 경험 (Setup)**: 비어있는 쓰레기 엑셀을 투척함. **(해법: 희소 데이터 자동 군집화 렌더링)**
+- **기안/결재 (Buy-in)**: 현장 직관(짬)과 기계 불신 간의 자아 충돌. **(해법: 통계 용어 전면 삭제, 직관적 평문 알람 제공)**
+- **실무 안착 (Routine)**: 바쁜 현장에서 PC 대신 모바일/태블릿 앱 구동. **(해법: 빨강/노랑/초록의 모바일 신호등 타일 UX)**
+- **유지 명분 (Advocacy)**: 협력 파트너 공장들과의 가동 최적화율 랭킹(Gamification)으로 승부욕 자극.
+
+## Related
+- [핵심 페르소나 (김아름 MD & 정동환 센터장)](file:///e:/workspace/my-wonderful-workbase/wiki/entities/personas.md)
+- [원본 출처: 리서치 요약 (08, 09, 10)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/research/source-user-research.md)

@@ -1,0 +1,28 @@
+---
+type: concept
+tags: [kpi, metrics, north-star, benchmarking]
+created: 2026-04-22
+updated: 2026-04-22
+---
+# 핵심 지표 (KPI) 및 벤치마킹 목표
+
+제품의 성공을 측정하는 북극성 지표와 기존 경쟁재 대비 개선 목표 수치입니다.
+
+## 1. 북극성 KPI (Leading Metrics)
+- **권장 리포트 1-Pass 통과율**: XAI가 도출한 발주 리포트가 임원 결재를 수정 없이 통과한 비율 (목표: 80% 이상)
+- **발주량 무수정 채택 비율**: AI 예측치를 사용자가 신뢰하여 수동 수정(Edited=true) 없이 발주하는 비율 (목표: 80% 이상)
+- **적정 인원 통보 반영률**: 센터장이 시스템이 산출한 인력 알림 내역을 실제 투입에 반영하는 오차율 (목표: 5% 이내)
+
+## 2. 수치 개선 벤치마크 (Benchmarks)
+- **수동 엑셀 처리 시간**: 일 평균 4시간 -> 10분 이내 (95% 단축)
+- **기안서 임원 반려 횟수**: 월 평균 5회 -> 0회 (오류/반려율 100% 제거)
+- **솔루션 구축 소요 시간**: 타 SCM(최소 3개월) -> 우리 솔루션(당일 반영)
+- **인력 오버 스케줄링 손실액**: 일 평균 80만 원 낭비 -> 0원 손실 방어
+
+## 3. 실험 설계 (A/B Test 파일럿)
+- **결재 승인 소요 시간 검증**: 기존 엑셀 작성 구두 품의 소요 시간 vs PDF XAI 도출 소요 시간 (T-검정 대응 표본).
+- **물류 잉여 비용 절감 검증**: 최소 21 영업일간 파일럿 적용 시 잉여 임금(80만 원)의 10%p 이상 간극 축소 확증.
+
+## Related
+- [Value Proposition (가치 제안) 및 Feature Map](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/value-proposition.md)
+- [원본 출처: PRD v1.1](file:///e:/workspace/my-wonderful-workbase/wiki/sources/specification/source-prd-v1.1.md)
