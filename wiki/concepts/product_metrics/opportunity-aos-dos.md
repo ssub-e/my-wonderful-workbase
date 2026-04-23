@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [aos, dos, opportunity-score, prioritization]
 created: 2026-04-22
@@ -22,6 +22,6 @@ updated: 2026-04-22
 - 기존 아날로그/영업망 체계에 완전히 만족하여 새로운 IT 툴 진입이 불가능한 구역. "앱이 어렵다"는 피드백이 와도 개선 자원을 투입하지 않고 철저히 무시/배제함.
 
 ## Related
-- [JTBD 심층 인터뷰](file:///e:/workspace/my-wonderful-workbase/wiki/entities/personas/jtbd-interviews.md)
-- [핵심 지표 (KPI) 및 벤치마킹 목표](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/product_metrics/kpi-and-benchmarks.md)
-- [원본 출처: 리서치 요약 (08, 09, 10)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/research/source-user-research.md)
+- [JTBD 심층 인터뷰](wiki/entities/personas/jtbd-interviews.md)
+- [핵심 지표 (KPI) 및 벤치마킹 목표](wiki/concepts/product_metrics/kpi-and-benchmarks.md)
+- [원본 출처: 리서치 요약 (08, 09, 10)](wiki/sources/research/source-user-research.md)

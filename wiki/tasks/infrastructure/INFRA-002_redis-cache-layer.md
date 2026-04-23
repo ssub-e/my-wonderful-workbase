@@ -13,9 +13,9 @@ created: 2026-04-22
 - 목적: 기상청과 네이버 DataLab 등 외부 API 장애 발생시 제공할 임시 백업 데이터 레이어 보존(REQ-NF-010). 그리고 카페24 API 호출 제한(분당 제한)을 방어하기 위한 임시 적재용 큐(REQ-FUNC-015) 용도의 Redis 환경을 구축한다 (C-TEC-004 준수).
 
 ## 🔗 References (Spec & Context)
-- SRS 제약: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-004 Redis (Upstash 호환)
-- SRS 기상 폴백: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-003, REQ-NF-010 (기상청 API 24h 캐시 폴백)
-- SRS API 방어: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-015 (Rate limit 극복 캐시)
+- SRS 제약: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-004 Redis (Upstash 호환)
+- SRS 기상 폴백: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-003, REQ-NF-010 (기상청 API 24h 캐시 폴백)
+- SRS API 방어: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-015 (Rate limit 극복 캐시)
 
 ## ✅ Task Breakdown (실행 계획)
 

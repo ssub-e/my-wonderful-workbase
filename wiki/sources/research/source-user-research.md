@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 tags: [source-summary, user-research, persona, cjm, jtbd]
 created: 2026-04-22
@@ -19,9 +19,9 @@ updated: 2026-04-22
 - **데이터 기반 MVP 스코프 확정**: 수많은 잠재 고객 중, 시장 볼륨과 고객 고통이 동시 폭발하는 **이커머스/3PL (DOS 2.7/2.0)** 에 1차적으로 모든 화력을 집중합니다.
 
 ## 파생된 Wiki 노드
-- [고객 여정 지도 (Customer Journey Map)](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/user_journeys/customer-journey-map.md)
-- [기회점수 (AOS/DOS) 매트릭스](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/product_metrics/opportunity-aos-dos.md)
-- [JTBD 심층 인터뷰 결과 (Jobs-to-be-Done)](file:///e:/workspace/my-wonderful-workbase/wiki/entities/personas/jtbd-interviews.md)
+- [고객 여정 지도 (Customer Journey Map)](wiki/concepts/user_journeys/customer-journey-map.md)
+- [기회점수 (AOS/DOS) 매트릭스](wiki/concepts/product_metrics/opportunity-aos-dos.md)
+- [JTBD 심층 인터뷰 결과 (Jobs-to-be-Done)](wiki/entities/personas/jtbd-interviews.md)
 
 ## Related
-- [원본 폴더 위치: raw/assets/](file:///e:/workspace/my-wonderful-workbase/raw/assets/)
+- [원본 폴더 위치: raw/assets/](raw/assets/)

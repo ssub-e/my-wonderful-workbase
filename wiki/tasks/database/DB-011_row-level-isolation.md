@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: B2B SaaS 앱의 핵심인 REQ-FUNC-026 (Row-Level Security)을 코드 레벨에 구현. 한 테넌트의 유저가 다른 테넌트의 DB(주문, 재고, 예측치)에 질의(Query)할 수 없도록, SQLAlchemy 이벤트 훅이나 전역 Base Repository 단에 자동 `where(tenant_id=...)` 필터를 적용하는 레이어를 구성한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 멀티테넌트: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-026 (tenant_id 기준 격리 강제)
-- SRS 보안: [`SRS-V1.0.md#§4.2.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-018 (화주사 간 데이터 격리 테스트 가능성)
+- SRS 멀티테넌트: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-026 (tenant_id 기준 격리 강제)
+- SRS 보안: [`SRS-V1.0.md#§4.2.3`](raw/assets/SRS-V1.0.md) — REQ-NF-018 (화주사 간 데이터 격리 테스트 가능성)
 
 ## ✅ Task Breakdown (실행 계획)
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [kpi, metrics, north-star, benchmarking]
 created: 2026-04-22
@@ -24,5 +24,5 @@ updated: 2026-04-22
 - **물류 잉여 비용 절감 검증**: 최소 21 영업일간 파일럿 적용 시 잉여 임금(80만 원)의 10%p 이상 간극 축소 확증.
 
 ## Related
-- [Value Proposition (가치 제안) 및 Feature Map](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/value-proposition.md)
-- [원본 출처: PRD v1.1](file:///e:/workspace/my-wonderful-workbase/wiki/sources/specification/source-prd-v1.1.md)
+- [Value Proposition (가치 제안) 및 Feature Map](wiki/concepts/value-proposition.md)
+- [원본 출처: PRD v1.1](wiki/sources/specification/source-prd-v1.1.md)

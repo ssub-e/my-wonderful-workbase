@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [competitor-analysis, market-research, business-strategy]
 created: 2026-04-22
@@ -21,5 +21,5 @@ updated: 2026-04-22
 - **우리의 전략 (Curation)**: 초기부터 직접 웹 크롤링 파이프라인을 구축하지 않고, 이미 정제된 대안 데이터(기상, 경제 트렌드 등)를 제공하는 핵심 API 벤더와 제휴하여 프록시 형태로 연동함. 단순 차트 뷰가 아닌 "내일 줄일 수 있는 인건비/절감 차액"과 같은 **액션 가능한 시그널(Actionable Signal)**을 최종 결과물로 제공해야 함.
 
 ## Related
-- [5 Forces 시장 매력도 분석](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/five-forces-market.md)
-- [원본 출처: 경쟁분석 종합 (02)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/business/source-market-competitor.md)
+- [5 Forces 시장 매력도 분석](wiki/concepts/business_strategy/five-forces-market.md)
+- [원본 출처: 경쟁분석 종합 (02)](wiki/sources/business/source-market-competitor.md)

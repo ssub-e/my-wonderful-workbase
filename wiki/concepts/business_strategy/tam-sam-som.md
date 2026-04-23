@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [market-size, tam-sam-som, business-strategy]
 created: 2026-04-22
@@ -27,5 +27,5 @@ updated: 2026-04-22
 - *배제 (Q2, Q4)*: 대형 리테일 플랫폼 및 다국적 제조 대기업은 자체 통합 인프라를 지향하므로 초기 타겟에서 배제함.
 
 ## Related
-- [경쟁사 및 대체재 분석](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/competitor-analysis.md)
-- [원본 출처: 시장 규모 세분화 (06)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/business/source-market-competitor.md)
+- [경쟁사 및 대체재 분석](wiki/concepts/business_strategy/competitor-analysis.md)
+- [원본 출처: 시장 규모 세분화 (06)](wiki/sources/business/source-market-competitor.md)

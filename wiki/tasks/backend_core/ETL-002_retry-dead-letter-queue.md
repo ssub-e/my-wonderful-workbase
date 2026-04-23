@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 외부 API의 일시적 장애나 데이터 DB 격리 충돌 등으로 워커가 에러를 뱉었을 때, 시스템을 복구하기 위해 간격 조율형(Exponential Backoff) 재시도를 3회 수행한다. 완전 실패 시 Slack 통보 및 Dead Letter Queue (DLQ 로그) 로 빠지게 하여 후속 처리를 돕는다. (REQ-NF-011 준수)
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.2.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-011 (ETL 재시도 정책 및 파이프라인 신뢰성)
+- SRS 요구사항: [`SRS-V1.0.md#§4.2.2`](raw/assets/SRS-V1.0.md) — REQ-NF-011 (ETL 재시도 정책 및 파이프라인 신뢰성)
 - 연관 태스크: `ADAPT-006` (Slack 훅), `DB-010` (Audit 로그)
 
 ## ✅ Task Breakdown (실행 계획)

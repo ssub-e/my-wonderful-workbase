@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 tags: [source-summary, value-chain, ksf, problem-statement]
 created: 2026-04-22
@@ -18,8 +18,8 @@ updated: 2026-04-22
 - **ROI 언어의 번역기 탑재**: C-Level 임원진의 결재를 얻기 위해서는 모델의 학술적 정확도 향상을, 곧바로 '재무 현금 흐름의 긍정적 개선(Cash Flow)'으로 자동 변환해주는 지표 계산 로직이 반드시 필요합니다.
 
 ## 파생된 Wiki 노드
-- [핵심 성공 요인 (KSF) 및 문제 정의](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/key-success-factors.md)
-- [가치 사슬 기반 생존 전략 (Value Chain)](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/value-chain-strategy.md)
+- [핵심 성공 요인 (KSF) 및 문제 정의](wiki/concepts/business_strategy/key-success-factors.md)
+- [가치 사슬 기반 생존 전략 (Value Chain)](wiki/concepts/business_strategy/value-chain-strategy.md)
 
 ## Related
-- [원본 폴더 위치: raw/assets/](file:///e:/workspace/my-wonderful-workbase/raw/assets/)
+- [원본 폴더 위치: raw/assets/](raw/assets/)

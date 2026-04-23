@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: REQ-FUNC-005(XAI 설명 가능 인공지능)를 충족한다. LightGBM이 뱉은 단순한 정수(예: "내일 500개 나감") 뒤에 숨은 피처들의 상대적 기여도(예: 날씨가 추워서 +50건 기여)를 SHAP 로켓 알고리즘으로 분해하여 `FORECAST_FACTOR` (DB-007) 에 적재한다.
 
 ## 🔗 References (Spec & Context)
-- 설명 데이터 보관: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — FORECAST_FACTOR 자식 테이블
+- 설명 데이터 보관: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — FORECAST_FACTOR 자식 테이블
 - 요구사항: REQ-FUNC-005 (SHAP 원인 추적 저장)
 - 기술스택: C-TEC-006 (`shap` 라이브러리 사용 강제)
 

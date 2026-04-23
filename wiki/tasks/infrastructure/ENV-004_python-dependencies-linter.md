@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 전체 프로젝트에서 사용할 모든 주요 라이브러리(FastAPI, SQLModel, LightGBM, SHAP 등)의 버전을 확립하고 중앙 관리한다. 또한 코드 협업 품질을 위한 정적 코드 분석기(Ruff) 룰을 세팅하여 1개의 커밋이라도 스타일을 어기면 CI를 거절하도록 통제한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 기술 스택: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC 전체 모듈 목록 참고
+- SRS 기술 스택: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC 전체 모듈 목록 참고
 - SRS 모듈 제약: C-TEC-001(Streamlit), 002(FastAPI), 003(SQLModel/asyncpg), 004(redis.asyncio), 005(lightgbm), 006(shap), 007(weasyprint/fpdf2), 008(apscheduler)
 
 ## ✅ Task Breakdown (실행 계획)

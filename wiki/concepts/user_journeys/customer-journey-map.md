@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [cjm, customer-journey, user-experience]
 created: 2026-04-22
@@ -23,5 +23,5 @@ updated: 2026-04-22
 - **유지 명분 (Advocacy)**: 협력 파트너 공장들과의 가동 최적화율 랭킹(Gamification)으로 승부욕 자극.
 
 ## Related
-- [핵심 페르소나 (김아름 MD & 정동환 센터장)](file:///e:/workspace/my-wonderful-workbase/wiki/entities/personas.md)
-- [원본 출처: 리서치 요약 (08, 09, 10)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/research/source-user-research.md)
+- [핵심 페르소나 (김아름 MD & 정동환 센터장)](wiki/entities/personas.md)
+- [원본 출처: 리서치 요약 (08, 09, 10)](wiki/sources/research/source-user-research.md)

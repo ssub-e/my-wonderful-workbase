@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 네이버 DataLab 및 소셜 미디어 지표에서 도출된 검색량 지수 및 키워드 트렌드 추이를 저장. 날씨(WEATHER)와 마찬가지로 화주사(Tenant) 의존성 없이 카테고리/키워드별로 **글로벌 공용 데이터**로 보관되어 머신러닝 예측 피처로 작동한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 정보 보관: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — TREND_DATA 엔터티
-- 예측 수집 요구사항: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-002 네이버 DataLab 자동 수집 연동
+- SRS 정보 보관: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — TREND_DATA 엔터티
+- 예측 수집 요구사항: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-002 네이버 DataLab 자동 수집 연동
 
 ## ✅ Task Breakdown (실행 계획)
 

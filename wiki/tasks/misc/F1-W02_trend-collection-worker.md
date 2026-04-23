@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 07:00에 발동하여 `ADAPT-002` (데이터랩 어댑터)와 `DB-006` (트렌드 레포지토리)를 이어준다. 최근 30일간의 지정된 핵심 키워드 검색량 변동 지수를 Bulk UPSERT하여 시계열 예측 모델의 외부 변수로 지원한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-002(네이버 검색 조회수 트렌드 반영)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-002(네이버 검색 조회수 트렌드 반영)
 - 연계 티켓: `ADAPT-002` (통신부), `DB-006` (저장소)
 
 ## ✅ Task Breakdown (실행 계획)

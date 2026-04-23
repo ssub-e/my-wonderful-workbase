@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 tags: [source-summary, market-research, competitors]
 created: 2026-04-22
@@ -18,9 +18,9 @@ updated: 2026-04-22
 - **자원 할당 원칙 (Buy over Build)**: AI 모델 파이프라인의 MLOps 인프라나, 웹 크롤링 파이프라인 구축에 개발력을 쏟지 않음. 기존 특화 솔루션을 구매/구독(API 연동)하여 "최종 수치와 예측의 질(XAI)" 하나에만 100% 자원을 집중.
 
 ## 파생된 Wiki 노드
-- [B2B 프레딕티브 AI 시장 5 Forces 분석](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/five-forces-market.md)
-- [경쟁사 포지셔닝 및 GTM 전략](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/competitor-analysis.md)
-- [시장 규모 및 세분화 (TAM-SAM-SOM)](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/tam-sam-som.md)
+- [B2B 프레딕티브 AI 시장 5 Forces 분석](wiki/concepts/business_strategy/five-forces-market.md)
+- [경쟁사 포지셔닝 및 GTM 전략](wiki/concepts/business_strategy/competitor-analysis.md)
+- [시장 규모 및 세분화 (TAM-SAM-SOM)](wiki/concepts/business_strategy/tam-sam-som.md)
 
 ## Related
-- [원본 폴더 위치: raw/assets/](file:///e:/workspace/my-wonderful-workbase/raw/assets/)
+- [원본 폴더 위치: raw/assets/](raw/assets/)

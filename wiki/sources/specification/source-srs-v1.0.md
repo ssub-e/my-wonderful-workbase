@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 tags: [source-summary, srs, specification, requirements]
 created: 2026-04-22
@@ -17,9 +17,9 @@ PRD v1.1을 기반으로 작성된 소프트웨어 요구사항 명세서(SRS-V1
 - **멀티테넌트 보안 격리**: 여러 B2B 화주사의 데이터가 한 DB에 모이므로, `tenant_id` 기반 Row-Level Isolation이 강제되며 데이터 교차 노출은 시스템상 치명적 오류로 간주됩니다.
 
 ## 파생된 Wiki 노드
-- [API 및 연동 스펙 명세서](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/system_arch/api-specs.md)
-- [C-TEC 기술 스택 및 제약사항](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/system_arch/tech-stack-srs.md)
-- [원본 출처: PRD v1.1 요약](file:///e:/workspace/my-wonderful-workbase/wiki/sources/specification/source-prd-v1.1.md)
+- [API 및 연동 스펙 명세서](wiki/concepts/system_arch/api-specs.md)
+- [C-TEC 기술 스택 및 제약사항](wiki/concepts/system_arch/tech-stack-srs.md)
+- [원본 출처: PRD v1.1 요약](wiki/sources/specification/source-prd-v1.1.md)
 
 ## Related
-- [원본 폴더 위치: raw/assets/](file:///e:/workspace/my-wonderful-workbase/raw/assets/)
+- [원본 폴더 위치: raw/assets/](raw/assets/)

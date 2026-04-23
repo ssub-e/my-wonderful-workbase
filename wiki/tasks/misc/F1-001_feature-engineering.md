@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 파편화되어 수집된 `ORDER`(매출/주문량, y값), `WEATHER_DATA`(기온/강수, X1), `TREND_DATA`(검색량, X2), 그리고 날짜 파장(주말/휴일, X3)을 하나의 Pandas(또는 Polars) DataFrame으로 조인하여 LightGBM 이 섭취할 수 있는 구조화된 학습/추론용 데이터 셋을 만든다.
 
 ## 🔗 References (Spec & Context)
-- 모델 요구사항: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-001, 002 (날씨, 트렌드가 변수로 작동해야 함)
+- 모델 요구사항: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-001, 002 (날씨, 트렌드가 변수로 작동해야 함)
 - 프로모션 변수: REQ-FUNC-017 (이벤트 여부 등 주문 테이블 기반 Meta 피처)
 - 기술 스택: C-TEC-005 (머신러닝 전처리 파이프라인)
 

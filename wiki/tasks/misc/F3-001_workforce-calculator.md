@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 전체 복잡한 F1(예측 엔진) 파이프라인의 최종 목적이자 고객의 원초적 니즈 (Jobs-to-be-done)를 해결하는 기능(REQ-FUNC-019). 예측된 모든 내일치 출고 박스 수를 합산하고, 물류 센터별 1인당 적정 처리 수준(CAPA) 으로 나누어, 당장 내일 호출해야 할 적정 인원수(N명)를 도출해 낸다 (`DB-009` 투입).
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-019 (필요 인원 역산 기능)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.3`](raw/assets/SRS-V1.0.md) — REQ-FUNC-019 (필요 인원 역산 기능)
 - 연계 테이블: `DB-007` (Forecast 출고수 산출 완료 후 참조), `DB-009` (Workforce_Plan 저장)
 
 ## ✅ Task Breakdown (실행 계획)

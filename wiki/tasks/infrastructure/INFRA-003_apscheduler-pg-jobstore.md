@@ -14,14 +14,14 @@ created: 2026-04-22
 
 ## 🔗 References (Spec & Context)
 > 💡 AI Agent & Dev Note: 작업 시작 전 아래 문서를 반드시 먼저 Read/Evaluate 할 것.
-- SRS 기술 스택: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-008 APScheduler + PG jobstore 영속화
-- SRS ETL 요구사항: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-027 ETL 자동화
-- SRS 폴백 전략: [`SRS-V1.0.md#§3.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — 외부 시스템 장애 시 임시 우회 전략
-- SRS Reliability: [`SRS-V1.0.md#§4.2.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-011 ETL 재시도 정책
-- SRS 시퀀스: [`SRS-V1.0.md#§6.3.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — 데이터 수집 파이프라인 + Exception 처리 시퀀스
-- SRS 알림 발송: [`SRS-V1.0.md#§3.4.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — 적정 인원 역산 및 알림 흐름 시퀀스
-- SRS Monitoring: [`SRS-V1.0.md#§4.2.5`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-022 ETL 파이프라인 모니터링
-- SRS Traceability: [`SRS-V1.0.md#§5.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — TC-027: ETL 자동 재시도 검증
+- SRS 기술 스택: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-008 APScheduler + PG jobstore 영속화
+- SRS ETL 요구사항: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-027 ETL 자동화
+- SRS 폴백 전략: [`SRS-V1.0.md#§3.1.1`](raw/assets/SRS-V1.0.md) — 외부 시스템 장애 시 임시 우회 전략
+- SRS Reliability: [`SRS-V1.0.md#§4.2.2`](raw/assets/SRS-V1.0.md) — REQ-NF-011 ETL 재시도 정책
+- SRS 시퀀스: [`SRS-V1.0.md#§6.3.1`](raw/assets/SRS-V1.0.md) — 데이터 수집 파이프라인 + Exception 처리 시퀀스
+- SRS 알림 발송: [`SRS-V1.0.md#§3.4.3`](raw/assets/SRS-V1.0.md) — 적정 인원 역산 및 알림 흐름 시퀀스
+- SRS Monitoring: [`SRS-V1.0.md#§4.2.5`](raw/assets/SRS-V1.0.md) — REQ-NF-022 ETL 파이프라인 모니터링
+- SRS Traceability: [`SRS-V1.0.md#§5.1`](raw/assets/SRS-V1.0.md) — TC-027: ETL 자동 재시도 검증
 - **관련 스케줄 대상 (등록할 Job 목록):**
   - 기상 데이터 수집: 매일 06:00 (REQ-FUNC-001)
   - 트렌드 데이터 수집: 매일 07:00 (REQ-FUNC-002)

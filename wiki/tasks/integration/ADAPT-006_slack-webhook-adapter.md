@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 개발-운영(DevOps) 모니터링 목적으로, ETL 스케줄러 배치 실패, 429 무한루프, 서버 Exception 등 크리티컬한 장애 발생 시 개발팀의 `#alert-pipeline` 채널에 즉각적인 알림(메시지 전송)을 보내 골든타임을 확보한다(REQ-NF-022 정책 충족).
 
 ## 🔗 References (Spec & Context)
-- SRS 모니터링: [`SRS-V1.0.md#§4.2.5`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-022(파이프라인 모니터링 경보를 Slack 등으로 알림)
+- SRS 모니터링: [`SRS-V1.0.md#§4.2.5`](raw/assets/SRS-V1.0.md) — REQ-NF-022(파이프라인 모니터링 경보를 Slack 등으로 알림)
 - 의존성: `INFRA-003`(스케줄러 실패 통보 액션)
 
 ## ✅ Task Breakdown (실행 계획)

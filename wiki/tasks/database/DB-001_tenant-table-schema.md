@@ -14,11 +14,11 @@ created: 2026-04-22
 
 ## 🔗 References (Spec & Context)
 > 💡 AI Agent & Dev Note: 작업 시작 전 아래 문서를 반드시 먼저 Read/Evaluate 할 것.
-- SRS ERD: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — Entity-Relationship Diagram 전체
-- SRS 멀티테넌트: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-026 tenant_id Row-Level Isolation
-- SRS 기술 스택: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-003 PostgreSQL + SQLModel
-- SRS 보안: [`SRS-V1.0.md#§4.2.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-018 화주사 데이터 격리
-- SRS Stakeholders: [`SRS-V1.0.md#§2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — STK-01~06
+- SRS ERD: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — Entity-Relationship Diagram 전체
+- SRS 멀티테넌트: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-026 tenant_id Row-Level Isolation
+- SRS 기술 스택: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-003 PostgreSQL + SQLModel
+- SRS 보안: [`SRS-V1.0.md#§4.2.3`](raw/assets/SRS-V1.0.md) — REQ-NF-018 화주사 데이터 격리
+- SRS Stakeholders: [`SRS-V1.0.md#§2`](raw/assets/SRS-V1.0.md) — STK-01~06
 - **ERD에서 확인된 TENANT 컬럼:**
   ```
   TENANT {

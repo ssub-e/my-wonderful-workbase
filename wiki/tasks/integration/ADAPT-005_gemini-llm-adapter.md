@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: REQ-FUNC-006(자연어 기반 XAI 리포트)의 핵심으로, Python 기반의 통계 수치 및 SHAP Factor 요인들을 입력받아 현업 비전문가도 쉽게 이해하는 B2B 자연어 평문 해설(글)을 반환하는 프록시 어댑터를 구성한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 제약 스펙: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-009 (Gemini API 의무 사용)
-- XAI 기능 연관: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-006 (결과 해석 자연어 생성)
+- SRS 제약 스펙: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-009 (Gemini API 의무 사용)
+- XAI 기능 연관: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-006 (결과 해석 자연어 생성)
 
 ## ✅ Task Breakdown (실행 계획)
 

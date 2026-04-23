@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 아침(또는 특정 주기마다) 테넌트 소유의 채널(Shop) 접속 정보를 끌어와, 신규 변경되거나 결제완료된 원천 발주량(`ORDER`, `ORDER_ITEM`)을 `DB-003` 에 적재한다. 이 데이터는 예측 엔진이 훈련할 가장 메인인 '사건 발생 Target 데이터' 다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-013 (주문 수집 자동화)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-013 (주문 수집 자동화)
 - 연관 태스크: `ADAPT-003` (카페24 연동망), `DB-002` (각종 테넌트샵 권한정보), `DB-003` (주문 보관함)
 
 ## ✅ Task Breakdown (실행 계획)

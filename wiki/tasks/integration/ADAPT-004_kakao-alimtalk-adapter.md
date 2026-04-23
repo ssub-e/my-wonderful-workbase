@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 16시(또는 역산 완료 직후) 인력 배치 담당자에게 내일 필요 인원을 Push하는 비즈니스 액션(REQ-FUNC-022)을 외부에 전송하기 위한 메시지 샌더 프로토콜을 구축한다.
 
 ## 🔗 References (Spec & Context)
-- 알림 전송 요구: [`SRS-V1.0.md#§4.1.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-022 매일 16:00 카카오톡 알림톡 발송
+- 알림 전송 요구: [`SRS-V1.0.md#§4.1.3`](raw/assets/SRS-V1.0.md) — REQ-FUNC-022 매일 16:00 카카오톡 알림톡 발송
 - 오류 전송: REQ-FUNC-023 알림톡 실패 시 휴대폰 SMS 대체 전환 정책(Fallback)
 
 ## ✅ Task Breakdown (실행 계획)

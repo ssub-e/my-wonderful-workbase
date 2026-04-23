@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: REQ-FUNC-009(과거-미래 연계 그래프)를 구현하기 위함. 하나의 점선/실선 복합 차트를 그리기 위해, 과거 N일치 실제 출고량(Order DB)과 미래 M일치 예측 출고량(Forecast DB)을 하나의 연속된 Array 로 가공하여 프론트엔드 도구(Recharts)가 파싱하기 쉬운 모양으로 제공한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 뷰 명세: [`SRS-V1.0.md#§4.1.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-009
+- SRS 뷰 명세: [`SRS-V1.0.md#§4.1.6`](raw/assets/SRS-V1.0.md) — REQ-FUNC-009
 - 기반 DB: `DB-003`(ORDER), `DB-007`(FORECAST)
 
 ## ✅ Task Breakdown (실행 계획)

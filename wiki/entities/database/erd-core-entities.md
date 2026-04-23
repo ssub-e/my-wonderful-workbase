@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 tags: [database, erd, schema, prd]
 created: 2026-04-22
@@ -26,5 +26,5 @@ updated: 2026-04-22
 * **FORECAST_FACTOR**: `factor_type` (날씨, 트렌드 등), `shap_value` (XAI 인과 지분)
 
 ## Related
-- [기술 아키텍처 및 시스템 파이프라인](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/system_arch/tech-architecture.md)
-- [원본 출처: PRD v1.1](file:///e:/workspace/my-wonderful-workbase/wiki/sources/specification/source-prd-v1.1.md)
+- [기술 아키텍처 및 시스템 파이프라인](wiki/concepts/system_arch/tech-architecture.md)
+- [원본 출처: PRD v1.1](wiki/sources/specification/source-prd-v1.1.md)

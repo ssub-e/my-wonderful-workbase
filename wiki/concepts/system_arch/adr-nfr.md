@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [adr, nfr, architecture-decision, non-functional-requirements]
 created: 2026-04-22
@@ -22,5 +22,5 @@ updated: 2026-04-22
 * **보안 (Security)**: 논리적 멀티테넌시(Multi-tenancy) 기반의 엄격한 데이터 격리 및 JWT Role 분리 접근 제어.
 
 ## Related
-- [기술 아키텍처 다이어그램 및 파이프라인](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/system_arch/tech-architecture.md)
-- [원본 출처: PRD v1.1](file:///e:/workspace/my-wonderful-workbase/wiki/sources/specification/source-prd-v1.1.md)
+- [기술 아키텍처 다이어그램 및 파이프라인](wiki/concepts/system_arch/tech-architecture.md)
+- [원본 출처: PRD v1.1](wiki/sources/specification/source-prd-v1.1.md)

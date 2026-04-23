@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 기상청 단기 예보로 수집된 전국 주요 권역별 날씨 데이터(강수량, 온도, 특보 등)를 일 단위로 격리 보관한다. 이 테이블은 특정 화주사(Tenant) 소속이 아닌 **글로벌 공용 데이터**로서, 예측 모델(LightGBM) 피처의 공통 입력 벡터로 활용된다.
 
 ## 🔗 References (Spec & Context)
-- SRS 정보 보관: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — WEATHER_DATA 엔터티
-- 예측 활용 수요: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-001 기상청 자동 수집 연결
+- SRS 정보 보관: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — WEATHER_DATA 엔터티
+- 예측 활용 수요: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-001 기상청 자동 수집 연결
 
 ## ✅ Task Breakdown (실행 계획)
 

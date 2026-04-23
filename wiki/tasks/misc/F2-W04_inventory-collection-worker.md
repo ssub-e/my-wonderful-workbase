@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 아침 혹은 실시간 재배치 타이밍에, 주문과 함께 쇼핑몰에 남아있는 실 잔여 수량 데이터(INVENTORY)와 상품 스펙(PRODUCT) 메타데이터를 수집 및 동기화한다. 이는 일종의 Master DB 최신화 과정이다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-014 (재고 데이터 수집)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-014 (재고 데이터 수집)
 - 연관 태스크: `ADAPT-003` (카페24 연동망), `DB-004` (상품+재고 보관함)
 
 ## ✅ Task Breakdown (실행 계획)

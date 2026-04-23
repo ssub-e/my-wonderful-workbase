@@ -14,8 +14,8 @@ created: 2026-04-22
 
 ## 🔗 References (Spec & Context)
 > 💡 AI Agent Notes:
-- SRS 배포 인프라: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-010 (Railway / Render 자동 배포)
-- SRS 성능/검증: [`SRS-V1.0.md#§4.2.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-028 (테스트 커버리지 80% CI 파이프라인 통합)
+- SRS 배포 인프라: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-010 (Railway / Render 자동 배포)
+- SRS 성능/검증: [`SRS-V1.0.md#§4.2.6`](raw/assets/SRS-V1.0.md) — REQ-NF-028 (테스트 커버리지 80% CI 파이프라인 통합)
 
 ## ✅ Task Breakdown (실행 계획)
 

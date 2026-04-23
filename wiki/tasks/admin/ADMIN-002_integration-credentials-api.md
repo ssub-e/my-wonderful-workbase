@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 카페24 등 화주사가 사용하는 쇼핑몰의 `mall_id` 와 임시 `app_key` 등을 SaaS 시스템에 건네주어 OAuth 인증을 인가받게 하는 진입점 API. 암호화 적용이 필수적이다.
 
 ## 🔗 References (Spec & Context)
-- SRS 외부망 요구사항: [`SRS-V1.0.md#§3.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — EXT-01 (쇼핑몰 호스팅 연동)
+- SRS 외부망 요구사항: [`SRS-V1.0.md#§3.1`](raw/assets/SRS-V1.0.md) — EXT-01 (쇼핑몰 호스팅 연동)
 - 관련 스키마: `DB-002` (SHOP 테이블)
 
 ## ✅ Task Breakdown (실행 계획)

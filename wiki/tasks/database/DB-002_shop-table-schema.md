@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 다중 화주사(Tenant) 환경하에서, 화주사들이 자신의 상점 단위 연동 플랫폼(카페24, 스마트스토어 등)의 OAuth 토큰 및 연동 진행 상태를 담고 갱신할 물리적 엔터티 공간을 마련한다. 
 
 ## 🔗 References (Spec & Context)
-- SRS ERD: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — TENANT 하위 엔터티
-- 연동 제약 기능: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-016 (연동 상태 status: connected/disconnected 기록)
+- SRS ERD: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — TENANT 하위 엔터티
+- 연동 제약 기능: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-016 (연동 상태 status: connected/disconnected 기록)
 
 ## ✅ Task Breakdown (실행 계획)
 

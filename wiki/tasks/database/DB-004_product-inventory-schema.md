@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 예측 엔진은 특정 **SKU 단위**로 발주 예측을 수행해야 하므로(REQ-FUNC-004), 이 SKU 식별 기준이 되는 상품 마스터(`PRODUCT`)와 변동치인 재고 현황(`INVENTORY`) 엔터티를 DB에 정의하고 데이터 접근 계층(Repository)을 셋업한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 데이터 모델러: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — PRODUCT, INVENTORY ERD 매핑
-- SRS 재고 수집 업무: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-014 (연속적인 현재 재고량의 최신화 목적 확인)
+- SRS 데이터 모델러: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — PRODUCT, INVENTORY ERD 매핑
+- SRS 재고 수집 업무: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-014 (연속적인 현재 재고량의 최신화 목적 확인)
 
 ## ✅ Task Breakdown (실행 계획)
 

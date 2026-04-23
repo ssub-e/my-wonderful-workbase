@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: REQ-FUNC-008 (대시보드 KPI 카드) 요구에 따라, 로그인한 테넌트 관리자가 화면을 켜자마자 보게 될 핵심 지표(전일 실제 주문량, 내일의 예측 출고량 전체 합산치, 평균 AI 신뢰도 등)를 한 번의 API 콜로 요약해 내려준다.
 
 ## 🔗 References (Spec & Context)
-- 대시보드 요구사항: [`SRS-V1.0.md#§4.1.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-008
+- 대시보드 요구사항: [`SRS-V1.0.md#§4.1.6`](raw/assets/SRS-V1.0.md) — REQ-FUNC-008
 - 보안/격리: `DB-011` (Row-Level Isolation 상속형 Repository 적용 필수)
 
 ## ✅ Task Breakdown (실행 계획)

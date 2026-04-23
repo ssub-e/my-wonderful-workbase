@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 데이터베이스, Redis, 타겟 API, 보안 난수 키(SECRET_KEY), Gemini API Key 등 프로젝트 전반에 쓰이는 민감 정보를 코드에서 분리하고, `pydantic-settings` 모듈을 통해 타입 힌트와 필수값 유무 검증을 강제한다 (C-TEC-009 연계).
 
 ## 🔗 References (Spec & Context)
-- SRS 외부 시스템 연동: [`SRS-V1.0.md#§3.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — EXT-01~07 (각종 외부 API 연동 토큰 관리 필요)
+- SRS 외부 시스템 연동: [`SRS-V1.0.md#§3.1`](raw/assets/SRS-V1.0.md) — EXT-01~07 (각종 외부 API 연동 토큰 관리 필요)
 - SRS 보안 인프라: C-TEC-009 (Gemini 환경변수 전환) 및 시크릿 하드코딩 금지 룰.
 
 ## ✅ Task Breakdown (실행 계획)

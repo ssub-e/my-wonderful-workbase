@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [vps, moscow, feature-map]
 created: 2026-04-22
@@ -20,5 +20,5 @@ updated: 2026-04-22
 *참고: 콜드체인 실시간 노선 재설정기(F4)는 제품 코어 방향을 해치므로 영구 제외(Won't) 결정됨.*
 
 ## Related
-- [핵심 페르소나](file:///e:/workspace/my-wonderful-workbase/wiki/entities/personas.md)
-- [원본 소스: VPS Final](file:///e:/workspace/my-wonderful-workbase/wiki/sources/source-vps.md)
+- [핵심 페르소나](wiki/entities/personas.md)
+- [원본 소스: VPS Final](wiki/sources/source-vps.md)

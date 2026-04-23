@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: B2B 시스템의 신뢰도 확보(REQ-FUNC-005, 006)를 위한 핵심 뷰. 프론트엔드가 특정 날짜/특정 상품을 클릭했을 때, 왜 그런 수치가 나왔는지 모델의 **가중치 영향 표(Factors)**와 LLM이 번역한 **자연어 텍스트(Explanation)** 둘을 엮어서 전송한다.
 
 ## 🔗 References (Spec & Context)
-- XAI 기능 요건: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md)
+- XAI 기능 요건: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md)
 - 기초 테이블: `DB-007` (`FORECAST` 단일 로우 내의 `explanation_text` 및 자식 `FORECAST_FACTOR` 활용)
 
 ## ✅ Task Breakdown (실행 계획)

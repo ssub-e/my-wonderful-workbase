@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [value-chain, business-strategy, partnership]
 created: 2026-04-22
@@ -20,6 +20,6 @@ updated: 2026-04-22
 - 코딩이나 기술을 모르는 도메인 현장 엔지니어도 즉각 조작 가능한 극도로 심플한 노코드(No-code) GUI 캔버스 혹은 iFrame 매립 방식의 솔루션 배포.
 
 ## Related
-- [핵심 성공 요인 (KSF) 및 문제 정의](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/key-success-factors.md)
-- [경쟁사 포지셔닝 및 GTM 전략](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/competitor-analysis.md)
-- [원본 출처: 가치 사슬 분석 (03)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/business/source-strategy-ksf.md)
+- [핵심 성공 요인 (KSF) 및 문제 정의](wiki/concepts/business_strategy/key-success-factors.md)
+- [경쟁사 포지셔닝 및 GTM 전략](wiki/concepts/business_strategy/competitor-analysis.md)
+- [원본 출처: 가치 사슬 분석 (03)](wiki/sources/business/source-strategy-ksf.md)

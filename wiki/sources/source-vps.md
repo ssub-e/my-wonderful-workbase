@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 tags: [vps, source-summary]
 created: 2026-04-22
@@ -18,8 +18,8 @@ updated: 2026-04-22
 
 ## 연관된 Wiki 노드 생성 목록
 본 원본 문서를 바탕으로 다음 위키 지식 노드들이 파생되어 구조화되었습니다:
-- **Entities**: [핵심 페르소나 (김아름 MD & 정동환 센터장)](file:///e:/workspace/my-wonderful-workbase/wiki/entities/personas.md)
-- **Concepts**: [Value Proposition (가치 제안) 및 Feature Map](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/value-proposition.md)
+- **Entities**: [핵심 페르소나 (김아름 MD & 정동환 센터장)](wiki/entities/personas.md)
+- **Concepts**: [Value Proposition (가치 제안) 및 Feature Map](wiki/concepts/value-proposition.md)
 
 ## Related
-- [원본 파일 열기(Raw Source)](file:///e:/workspace/my-wonderful-workbase/raw/assets/07_VPS_Final_for_PRD.md)
+- [원본 파일 열기(Raw Source)](raw/assets/07_VPS_Final_for_PRD.md)

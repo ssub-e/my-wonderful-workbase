@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 매출 데이터 분석 및 프로모션 시그널(주문량 폭증) 감지를 위해 카페24 등으로부터 수집되는 일별 주문 내역 데이터를 저장한다. 향후 1회 주문이 수 십개의 상품(`ORDER_ITEM`) 라인을 지닐 수 있으므로 정규화된 마스터-디테일 구조를 띤다.
 
 ## 🔗 References (Spec & Context)
-- SRS ERD: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — ORDER/ORDER_ITEM 관계
-- 프로모션 시그널: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-017 (is_promotion 탐지 필드 연관)
+- SRS ERD: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — ORDER/ORDER_ITEM 관계
+- 프로모션 시그널: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-017 (is_promotion 탐지 필드 연관)
 
 ## ✅ Task Breakdown (실행 계획)
 

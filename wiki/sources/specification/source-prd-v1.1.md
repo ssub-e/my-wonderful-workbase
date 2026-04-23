@@ -1,4 +1,4 @@
----
+﻿---
 type: source
 tags: [prd, source-summary, spec]
 created: 2026-04-22
@@ -16,12 +16,12 @@ B2B 수요예측 AI SaaS 제품의 전체 요구사항이 집약된 **최상위 
 이 거대한 PRD 원본은 지식 베이스의 그래프 최적화를 위해 아래와 같은 구체적 개념/엔티티 노드로 해체 및 구조화되었습니다.
 
 * **[Entities] 데이터베이스 설계**
-  * [데이터베이스 코어 엔티티 (ERD)](file:///e:/workspace/my-wonderful-workbase/wiki/entities/database/erd-core-entities.md)
+  * [데이터베이스 코어 엔티티 (ERD)](wiki/entities/database/erd-core-entities.md)
 * **[Concepts] 시스템 아키텍처 및 성능 제약**
-  * [기술 아키텍처 다이어그램 및 파이프라인](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/system_arch/tech-architecture.md)
-  * [ADR (아키텍처 결정) 및 NFR (비기능 요구사항)](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/system_arch/adr-nfr.md)
+  * [기술 아키텍처 다이어그램 및 파이프라인](wiki/concepts/system_arch/tech-architecture.md)
+  * [ADR (아키텍처 결정) 및 NFR (비기능 요구사항)](wiki/concepts/system_arch/adr-nfr.md)
 * **[Concepts] 지표 측정 및 실험 설계**
-  * [핵심 지표 (KPI) 및 벤치마킹 목표](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/product_metrics/kpi-and-benchmarks.md)
+  * [핵심 지표 (KPI) 및 벤치마킹 목표](wiki/concepts/product_metrics/kpi-and-benchmarks.md)
 
 ## Related
-- [원본 파일 열기(Raw Source)](file:///e:/workspace/my-wonderful-workbase/raw/assets/00_PRD-v1.1.md)
+- [원본 파일 열기(Raw Source)](raw/assets/00_PRD-v1.1.md)

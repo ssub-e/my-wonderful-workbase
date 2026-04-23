@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: `INFRA-003` (APScheduler 인프라) 위에서 동작하는 논리적인 파이프라인 레이어를 구축한다. 다수의 수집 Worker들(기상, 트렌드, 주문 등)과 처리 Worker들(예측, 역산) 간의 순서(DAG: Directed Acyclic Graph 유사 동작)를 제어하고, 매일 정해진 스케줄 흐름대로 데이터를 밀어 넣게 조율한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-027 (ETL 자동화 제어)
-- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — Batch & Scheduler 파트
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-027 (ETL 자동화 제어)
+- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](raw/assets/SRS-V1.0.md) — Batch & Scheduler 파트
 - 의존성: C-TEC-008 (Airflow 대비 가벼운 APScheduler 사용에 대한 보완책)
 
 ## ✅ Task Breakdown (실행 계획)

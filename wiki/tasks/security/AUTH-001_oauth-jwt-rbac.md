@@ -14,13 +14,13 @@ created: 2026-04-22
 
 ## 🔗 References (Spec & Context)
 > 💡 AI Agent & Dev Note: 작업 시작 전 아래 문서를 반드시 먼저 Read/Evaluate 할 것.
-- SRS 인증: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-025 (OAuth 2.0 + JWT, RBAC)
-- SRS 멀티테넌트: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-026 (tenant_id Row-Level Isolation)
-- SRS 보안 NFR: [`SRS-V1.0.md#§4.2.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-017 (인증 및 접근 제어)
-- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — Component Architecture "인증/인가 OAuth 2.0 + JWT + RBAC"
-- SRS 감사 로그: [`SRS-V1.0.md#§4.1.4`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-028 (감사 로그 기록)
-- SRS Stakeholders: [`SRS-V1.0.md#§2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — 역할 정의 (MD, 센터장, 경영진, 화주사, 시스템 관리자)
-- SRS Traceability: [`SRS-V1.0.md#§5.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — TC-025: RBAC 접근 제어 검증
+- SRS 인증: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-025 (OAuth 2.0 + JWT, RBAC)
+- SRS 멀티테넌트: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-026 (tenant_id Row-Level Isolation)
+- SRS 보안 NFR: [`SRS-V1.0.md#§4.2.3`](raw/assets/SRS-V1.0.md) — REQ-NF-017 (인증 및 접근 제어)
+- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](raw/assets/SRS-V1.0.md) — Component Architecture "인증/인가 OAuth 2.0 + JWT + RBAC"
+- SRS 감사 로그: [`SRS-V1.0.md#§4.1.4`](raw/assets/SRS-V1.0.md) — REQ-FUNC-028 (감사 로그 기록)
+- SRS Stakeholders: [`SRS-V1.0.md#§2`](raw/assets/SRS-V1.0.md) — 역할 정의 (MD, 센터장, 경영진, 화주사, 시스템 관리자)
+- SRS Traceability: [`SRS-V1.0.md#§5.1`](raw/assets/SRS-V1.0.md) — TC-025: RBAC 접근 제어 검증
 
 ## ✅ Task Breakdown (실행 계획)
 

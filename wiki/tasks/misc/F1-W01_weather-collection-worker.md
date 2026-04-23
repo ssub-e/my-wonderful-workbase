@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 06:00 스케줄에 맞춰 동작하는 단위 작업 블럭(Worker). `ADAPT-001` (기상청 어댑터)을 호출하여 내일의 날씨 예보를 획득하고, `DB-005` (WEATHER_DATA 레포지토리)에 UPSERT 하여 향후 XAI 예측 엔진 파이프라인이 즉시 가져다 쓸 수 있는 공용 Feature Data를 적재한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-001(기상 데이터 수집), REQ-FUNC-003(24시간 기상 Fallback 캐시)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-001(기상 데이터 수집), REQ-FUNC-003(24시간 기상 Fallback 캐시)
 - 의존성 태스크: `ADAPT-001` (통신단), `DB-005` (저장단), `ETL-002` (재시도 정책)
 
 ## ✅ Task Breakdown (실행 계획)

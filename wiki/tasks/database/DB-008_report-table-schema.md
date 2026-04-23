@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: "XAI 원클릭 리포트 추출" 기능 (REQ-FUNC-007)을 통해 PDF 형식 등으로 생성된 최종 파일의 경로 및 이력을 영구 보존. 경영진 제출 증빙, 과거 품의서 재열람, 그리고 감사 KPI (발주 반려 여부) 추적을 위한 파일 메타데이터를 저장한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 모델: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REPORT
-- 관련 스펙: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-007 PDF 자동 생성
+- SRS 모델: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — REPORT
+- 관련 스펙: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-007 PDF 자동 생성
 - 스토리지: C-TEC-011 (Supabase Storage / S3 호환 Object Storage)
 
 ## ✅ Task Breakdown (실행 계획)

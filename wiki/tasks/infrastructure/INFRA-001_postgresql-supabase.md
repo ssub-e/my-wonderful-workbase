@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: C-TEC-003(PostgreSQL)의 필수 기반으로서 동시다발적인 FastAPI 요청과 백그라운드 스케줄러(ETL) 접근을 I/O 블로킹 없이 처리하기 위한 비동기 `asyncpg` 엔진을 초기화한다. 커넥션 풀을 설정하여 RDBMS 장애에 유연하게 대처하며 RPO/RTO 백업 정책 기반을 설계한다.
 
 ## 🔗 References (Spec & Context)
-- SRS DB 제약: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-003 (PG + SQLModel, asyncpg 드라이버 권장)
-- SRS 신뢰성 요구사항: [`SRS-V1.0.md#§4.2.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-013 (RPO 1시간 이내 백업), REQ-NF-014 (RTO 복구 절차)
+- SRS DB 제약: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-003 (PG + SQLModel, asyncpg 드라이버 권장)
+- SRS 신뢰성 요구사항: [`SRS-V1.0.md#§4.2.2`](raw/assets/SRS-V1.0.md) — REQ-NF-013 (RPO 1시간 이내 백업), REQ-NF-014 (RTO 복구 절차)
 
 ## ✅ Task Breakdown (실행 계획)
 

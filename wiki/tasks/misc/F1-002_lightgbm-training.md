@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: `F1-001`을 통해 전처리된 DataFrame을 바탕으로, SKU 별로 미래 출고량을 예측(Regression)하는 **LightGBM** 모델을 훈련시킨다. 모델 바이너리를 로컬 또는 S3에 저장/버저닝 한다. (C-TEC-005 규격)
 
 ## 🔗 References (Spec & Context)
-- 핵심 분석 모델: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-004 (수요 예측 엔진 및 신뢰도 산출)
+- 핵심 분석 모델: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-004 (수요 예측 엔진 및 신뢰도 산출)
 - 기술 제약: C-TEC-005 (scikit-learn 이나 DL 대신, 속도와 설명력이 입증된 LightGBM 프레임워크 한정 강제)
 
 ## ✅ Task Breakdown (실행 계획)

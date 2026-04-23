@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 아침 재고 수집(F2-W04)이 종료된 직후 파이프라인에 의해 실행되며, 전일자 훈련된(또는 로드된) 머신러닝 `.pkl` 모델을 올려 내일자 피처 벡처를 예측 함수로 주입한다. 반환된 예측수량과 신뢰도를 `DB-007`(`FORECAST` 테이블)에 적재한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — Inference API / Workflow
+- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](raw/assets/SRS-V1.0.md) — Inference API / Workflow
 - 데이터 연계: REQ-FUNC-004 (예측값 및 신뢰도 반환 저장)
 
 ## ✅ Task Breakdown (실행 계획)

@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: REQ-FUNC-002 규칙에 따라 타겟 품목 군의 검색량 추이를 매일 1회 수집한다. 특정 기간 내의 '검색 지수(0~100)'를 반환하는 구조를 파싱하여 모델에 주입하기 위함이다.
 
 ## 🔗 References (Spec & Context)
-- SRS 수집 요구: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-002
+- SRS 수집 요구: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-002
 - 네이버 Developers API 가이드라인 연동
 
 ## ✅ Task Breakdown (실행 계획)

@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: REQ-FUNC-001에 따라 매일 1회 익일의 지역별 기온/강수량 데이터를 추출한다. 헥사고날 아키텍처에 입각해 기상청의 지저분한 XML/JSON 응답 포맷을 어플리케이션 내부 도메인 양식(`WeatherDataCreate`)으로 깔끔히 변환하는 통신 객체를 생성한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 수집 요구: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-001
-- 신뢰성 폴백: [`SRS-V1.0.md#§4.2.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-010 (기상청 응답 지연/에러 시 캐시 폴백 체계)
+- SRS 수집 요구: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-001
+- 신뢰성 폴백: [`SRS-V1.0.md#§4.2.2`](raw/assets/SRS-V1.0.md) — REQ-NF-010 (기상청 응답 지연/에러 시 캐시 폴백 체계)
 - 헥사고날 룰: `docs/architecture_guidelines.md`
 
 ## ✅ Task Breakdown (실행 계획)

@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 tags: [jtbd, interviews, jobs-to-be-done, research]
 created: 2026-04-22
@@ -26,5 +26,5 @@ updated: 2026-04-22
 - **Action (기능)**: 일반 월 30만 원 SaaS가 아닌, 사고 예방용 보상 보험이 연계된 초고가(월 천만 원) 엔터프라이즈 전용 패키징 영업 전략.
 
 ## Related
-- [기회점수 (AOS/DOS) 매트릭스](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/product_metrics/opportunity-aos-dos.md)
-- [원본 출처: 리서치 요약 (08, 09, 10)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/research/source-user-research.md)
+- [기회점수 (AOS/DOS) 매트릭스](wiki/concepts/product_metrics/opportunity-aos-dos.md)
+- [원본 출처: 리서치 요약 (08, 09, 10)](wiki/sources/research/source-user-research.md)

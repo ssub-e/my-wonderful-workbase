@@ -1,4 +1,4 @@
----
+﻿---
 type: concept
 tags: [five-forces, market-analysis, business-strategy]
 created: 2026-04-22
@@ -22,6 +22,6 @@ updated: 2026-04-22
 3. 마이크로 버티컬 도메인(이커머스/3PL)에 뾰족하게 최적화된 **사전 학습 지식 그래프**
 
 ## Related
-- [경쟁사 포지셔닝 및 GTM 전략](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/competitor-analysis.md)
-- [시장 규모 및 세분화 (TAM-SAM-SOM)](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/business_strategy/tam-sam-som.md)
-- [원본 출처: 시장 분석 종합 (01)](file:///e:/workspace/my-wonderful-workbase/wiki/sources/business/source-market-competitor.md)
+- [경쟁사 포지셔닝 및 GTM 전략](wiki/concepts/business_strategy/competitor-analysis.md)
+- [시장 규모 및 세분화 (TAM-SAM-SOM)](wiki/concepts/business_strategy/tam-sam-som.md)
+- [원본 출처: 시장 분석 종합 (01)](wiki/sources/business/source-market-competitor.md)

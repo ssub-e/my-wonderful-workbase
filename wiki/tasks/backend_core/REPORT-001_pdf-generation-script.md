@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 센터장(B2B 관리자) 본사에 올려보낼 **예측 결과 + XAI 이유 + 적정인원 결재서류**를 웹 대시보드 밖에서도 열람 가능하도록 A4 PDF 포맷으로 만들어 준다 (REQ-FUNC-007 목적). C-TEC-007 에 따라 `WeasyPrint` (또는 FPDF2) 패키지를 파이프라인 연계에 얹어 구현한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 다운로드 요구: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-007 ("XAI 분석 결과 원클릭 다운로드")
+- SRS 다운로드 요구: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-007 ("XAI 분석 결과 원클릭 다운로드")
 - 기술 스택 제약: C-TEC-007 (`weasyprint` 우선 사용 권장 - 렌더링 품질 우수)
 - 파일 저장 연관: `DB-008` (Report 기록 테이블)
 

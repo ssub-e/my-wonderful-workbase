@@ -1,4 +1,4 @@
----
+﻿---
 type: entity
 tags: [persona, md, 3pl, jtbd]
 created: 2026-04-22
@@ -19,5 +19,5 @@ updated: 2026-04-22
 - **Needs**: 판매 API 1-Click 연동으로 화주사 소통을 생략하는 '인건비 옵티마이저'.
 
 ## Related
-- [Value Proposition (가치 제안)](file:///e:/workspace/my-wonderful-workbase/wiki/concepts/value-proposition.md)
-- [원본 소스: VPS Final](file:///e:/workspace/my-wonderful-workbase/wiki/sources/source-vps.md)
+- [Value Proposition (가치 제안)](wiki/concepts/value-proposition.md)
+- [원본 소스: VPS Final](wiki/sources/source-vps.md)

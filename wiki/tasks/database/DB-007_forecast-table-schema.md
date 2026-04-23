@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 본 SaaS의 엔진 코어 모델(LightGBM)로 산출된 최종 SKU별 예측 출고량과 모델 신뢰도를 보관. 또한, 해당 예측을 이끌어 낸 주요 SHAP 원인 변수(기온 저하, 전일 조회수 폭발 등)와 LLM의 자연어 해설 문장을 `1:N` 관계로 영구 저장한다 (XAI 근본 레이어).
 
 ## 🔗 References (Spec & Context)
-- SRS 예측 엔진 제약: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-004(예측값, 신뢰도 저장), REQ-FUNC-005(SHAP 기여도 저장), REQ-FUNC-006(LLM 자연어 해설 저장)
-- ERD 명세: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) (FORECAST 1:N FACTOR)
+- SRS 예측 엔진 제약: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-004(예측값, 신뢰도 저장), REQ-FUNC-005(SHAP 기여도 저장), REQ-FUNC-006(LLM 자연어 해설 저장)
+- ERD 명세: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) (FORECAST 1:N FACTOR)
 
 ## ✅ Task Breakdown (실행 계획)
 

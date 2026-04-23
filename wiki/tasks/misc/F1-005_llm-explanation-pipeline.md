@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: REQ-FUNC-006(결과 해석 자연어 생성) 이행. F1-004에서 추출한 복잡한 기호(`{temp: -12.4}`)들을 일반 B2B 시스템 관리자(센터장, MD)가 이해 가능한 텍스트 문구로 치환한다. `ADAPT-005` (Gemini 어댑터)에 1일 단위 프롬프트를 주입하여 반환 받고 DB 내(`FORECAST_FACTOR` 의 `explanation_text` 등)에 밀어 넣는다.
 
 ## 🔗 References (Spec & Context)
-- XAI 요건: [`SRS-V1.0.md#§4.1.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-006
+- XAI 요건: [`SRS-V1.0.md#§4.1.1`](raw/assets/SRS-V1.0.md) — REQ-FUNC-006
 - 의존 태스크: `ADAPT-005` (Gemini API 통신단), `F1-004` (SHAP 원인 분석 데이터소스)
 
 ## ✅ Task Breakdown (실행 계획)

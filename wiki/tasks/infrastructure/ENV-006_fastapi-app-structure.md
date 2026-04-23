@@ -14,11 +14,11 @@ created: 2026-04-22
 
 ## 🔗 References (Spec & Context)
 > 💡 AI Agent & Dev Note: 작업 시작 전 아래 문서를 반드시 먼저 Read/Evaluate 할 것.
-- SRS 문서: [`SRS-V1.0.md#§1.5.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — C-TEC-002 FastAPI
-- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — Component Architecture (API Layer)
-- SRS API 목록: [`SRS-V1.0.md#§3.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — API-INT-01~10 개요
-- SRS API 상세: [`SRS-V1.0.md#§6.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — 전체 Endpoint List
-- SRS 모듈 독립성: [`SRS-V1.0.md#§4.2.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-026 모듈 독립성, REQ-NF-029 헥사고날 아키텍처
+- SRS 문서: [`SRS-V1.0.md#§1.5.3`](raw/assets/SRS-V1.0.md) — C-TEC-002 FastAPI
+- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](raw/assets/SRS-V1.0.md) — Component Architecture (API Layer)
+- SRS API 목록: [`SRS-V1.0.md#§3.3`](raw/assets/SRS-V1.0.md) — API-INT-01~10 개요
+- SRS API 상세: [`SRS-V1.0.md#§6.1`](raw/assets/SRS-V1.0.md) — 전체 Endpoint List
+- SRS 모듈 독립성: [`SRS-V1.0.md#§4.2.6`](raw/assets/SRS-V1.0.md) — REQ-NF-026 모듈 독립성, REQ-NF-029 헥사고날 아키텍처
 - **관련 C-TEC 제약:**
   - C-TEC-002: FastAPI — 비동기 고성능 REST API, 자동 OpenAPI 문서 생성
   - C-TEC-003: PostgreSQL + SQLModel

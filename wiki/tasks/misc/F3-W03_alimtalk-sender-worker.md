@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: 매일 16:00 (물류 관리자 퇴근 시점 전)에 스케줄러로 발동. 당일 도출된 `WORKFORCE_PLAN`(예측 인원 역산치 데이터)을 DB에서 읽어, 테넌트 관리자의 SMS/카카오톡으로 자동 푸시 발송한다. 발송 이후 성공/실패 여부를 Audit과 Plan 테이블에 찍어 남긴다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-022(16시 자동 알림 발송), REQ-FUNC-024(발송 이력 추적)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.3`](raw/assets/SRS-V1.0.md) — REQ-FUNC-022(16시 자동 알림 발송), REQ-FUNC-024(발송 이력 추적)
 - 연관 태스크: `ADAPT-004` (카카오/SMS 폴백 송신 프로토콜), `DB-009` (Workforce 모델 저장소)
 
 ## ✅ Task Breakdown (실행 계획)

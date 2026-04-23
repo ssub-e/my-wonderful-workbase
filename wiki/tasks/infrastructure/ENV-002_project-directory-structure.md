@@ -14,8 +14,8 @@ created: 2026-04-22
 
 ## 🔗 References (Spec & Context)
 > 💡 AI Agent & Dev Note: 작업 시작 전 아래 문서를 반드시 먼저 Read/Evaluate 할 것.
-- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — Component Architecture Diagram
-- SRS 모듈 독립성: [`SRS-V1.0.md#§4.2.6`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-NF-029 (헥사고날), REQ-NF-026 (모듈 분리)
+- SRS 아키텍처: [`SRS-V1.0.md#§3.6`](raw/assets/SRS-V1.0.md) — Component Architecture Diagram
+- SRS 모듈 독립성: [`SRS-V1.0.md#§4.2.6`](raw/assets/SRS-V1.0.md) — REQ-NF-029 (헥사고날), REQ-NF-026 (모듈 분리)
 - **제약사항:** C-TEC-002 (FastAPI), C-TEC-013 (Docker 통합 환경)
 
 ## ✅ Task Breakdown (실행 계획)

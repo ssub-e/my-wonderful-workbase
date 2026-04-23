@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: B2B 화주사의 핵심 원천 데이터인 "이전 주문"과 "현재 재고"를 긁어오기 위한 메인 커넥터를 생산한다. REQ-FUNC-015 규정에 따른 강력한 분당 API 호출 제한(Rate Limit) 방어 전략이 어댑터 본체 혹은 상위 프록시에 구현되어야 한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 요구사항: [`SRS-V1.0.md#§4.1.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-013(주문 수집), REQ-FUNC-014(재고 수집)
+- SRS 요구사항: [`SRS-V1.0.md#§4.1.2`](raw/assets/SRS-V1.0.md) — REQ-FUNC-013(주문 수집), REQ-FUNC-014(재고 수집)
 - 성능 제약: REQ-FUNC-015 — 카페24 분당 API 제한률 극복 설계(Redis 캐싱 등 연계)
 - 헥사고날 룰 준수
 

@@ -13,7 +13,7 @@ created: 2026-04-22
 - 목적: B2B 웹 애플리케이션 화면 구성을 위해, 성능이 뛰어난 React SPA (Vite 기반) 프로젝트를 세팅하고, Tailwind CSS 기반의 스타일링 환경 및 계층형 폴더 구조를 확립한다.
 
 ## 🔗 References (Spec & Context)
-- SRS 뷰/컴포넌트: [`SRS-V1.0.md#§5.1`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — UI 화면 프레임워크 명세
+- SRS 뷰/컴포넌트: [`SRS-V1.0.md#§5.1`](raw/assets/SRS-V1.0.md) — UI 화면 프레임워크 명세
 - 기술 스택 제약: C-TEC-001 (Streamlit 은 테스트용이며, 본 문서는 상용 MVP 배포용 프론트엔드로 React 스택을 고려할 경우의 표준을 지정함. Streamlit을 쓸 경우에도 이에 준하는 폴더 분리 적용).
 
 ## ✅ Task Breakdown (실행 계획)

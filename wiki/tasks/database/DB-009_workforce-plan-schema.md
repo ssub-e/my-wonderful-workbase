@@ -13,8 +13,8 @@ created: 2026-04-22
 - 목적: 수요 예측(FORECAST)을 가공하여 3PL 센터에서 필요한 익일 필요 적정 아르바이트 인원 수를 역산해 저장하고, 알림톡 통보 이력(시간, 매체)을 추적 및 보존한다 (REQ-FUNC-019, REQ-FUNC-024 대응).
 
 ## 🔗 References (Spec & Context)
-- SRS 다이어그램: [`SRS-V1.0.md#§6.2`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — WORKFORCE_PLAN
-- 인원 역산 기능: [`SRS-V1.0.md#§4.1.3`](file:///e:/workspace/SRS-from-PRD/SRS-V1.0.md) — REQ-FUNC-019 (적정 인원 자동 역산), REQ-FUNC-024 (알림 발송 감사 로그 및 통보 기록)
+- SRS 다이어그램: [`SRS-V1.0.md#§6.2`](raw/assets/SRS-V1.0.md) — WORKFORCE_PLAN
+- 인원 역산 기능: [`SRS-V1.0.md#§4.1.3`](raw/assets/SRS-V1.0.md) — REQ-FUNC-019 (적정 인원 자동 역산), REQ-FUNC-024 (알림 발송 감사 로그 및 통보 기록)
 
 ## ✅ Task Breakdown (실행 계획)
 
