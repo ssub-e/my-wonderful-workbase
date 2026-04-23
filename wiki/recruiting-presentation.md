@@ -5,8 +5,8 @@ class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
-header: 'AI Demand Forecasting SaaS Recruiting'
-footer: '© 2026 C-TEC AI SaaS Project'
+header: 'DeepDemand AI Demand Forecasting SaaS Recruiting'
+footer: '© 2026 DeepDemand AI SaaS Project'
 ---
 
 # **함께 세상을 예측할 팀원을 찾습니다**
